@@ -123,6 +123,14 @@ span:hover{
         width:96%;
         margin: 0px 4px;
         display:block;
+        height:886px;
+        
+    }
+    .buttons{
+        grid-gap: 1.3rem;
+    }
+    .btn{
+        height:59px;
     }
     .container{
     

@@ -39,7 +39,7 @@ for(let items of buttons){
        screenValue+=buttonText;
        display2.innerText=screenValue
      }
-    })
+   })
 }
 
 // dark mood
